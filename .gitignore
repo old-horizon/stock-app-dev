@@ -1,0 +1,11 @@
+frontend/.vscode
+frontend/node_modules/
+frontend/public/build/
+
+backend/.clasp.json
+backend/node_modules/
+backend/build/main.js
+backend/build/javascript.html
+backend/build/stylesheet.html
+
+.DS_Store
